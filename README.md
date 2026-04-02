@@ -48,3 +48,6 @@ I love combining electronics + coding to build smart and innovative systems 🤖
 ✨ I believe in learning by building
 ✨ Always curious about how things work behind the scenes
 ✨ Constantly improving and exploring new technologies
+
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/eccha_bansal)](https://leetcode.com/u/eccha_bansal/)
